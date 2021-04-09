@@ -918,3 +918,64 @@ ExceptionHandler::WaitForContinueSignal waiting for continue signal...
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 1617940345527	Marionette	INFO	Stopped listening on port 40873
+1617948540755	geckodriver	INFO	Listening on 127.0.0.1:46635
+1617948540757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7d22Pu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617948543961	Marionette	INFO	Listening on port 33463
+1617948543989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1617948548911	Marionette	INFO	Stopped listening on port 33463
+1617948647720	geckodriver	INFO	Listening on 127.0.0.1:57835
+1617948647731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK70OU5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617948650918	Marionette	INFO	Listening on port 33055
+1617948650962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617948888578	geckodriver	INFO	Listening on 127.0.0.1:40443
+1617948888583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqHz3S6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617948891733	Marionette	INFO	Listening on port 37223
+1617948891813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617948895228	Marionette	INFO	Stopped listening on port 37223
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617949005530	geckodriver	INFO	Listening on 127.0.0.1:36513
+1617949005536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYp6Vea"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617949008668	Marionette	INFO	Listening on port 35737
+1617949008760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617949013314	Marionette	INFO	Stopped listening on port 35737
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617949074548	geckodriver	INFO	Listening on 127.0.0.1:36819
+1617949074554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileICIfwa"
+1617949155553	geckodriver	INFO	Listening on 127.0.0.1:55785
+1617949155563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWUeTIF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617949158587	Marionette	INFO	Listening on port 39211
+1617949158691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617949450901	geckodriver	INFO	Listening on 127.0.0.1:60389
+1617949450906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXMmbhm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617949454016	Marionette	INFO	Listening on port 34981
+1617949454131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617949459542	Marionette	INFO	Stopped listening on port 34981
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617949831603	geckodriver	INFO	Listening on 127.0.0.1:49905
+1617949831608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA77Pyp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617949834822	Marionette	INFO	Listening on port 35907
+1617949834935	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23758, MediaDecoderStateMachine #1] WARNING: Decoder=7fb0409b2c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 23758, MediaDecoderStateMachine #1] WARNING: Decoder=7fb0409b2c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if0Q4/ya/l/en_US/3zCtPsGRltlw1HtmvI3KM39yXecV7RIQyFRVAG5JXWwlprtmu282zVUv0vBBbzOnlwayJYAiSWrJ4dZiDFbx3RkrtU2Pa06DBrjLxKbQpSCnjrWnC_KrxSIXXigtIfH4v3P-du4JqQqdY5nOxxXNybyQ5x6EYHyR6SZMNjdKn0Pk2vvyODTCHVLQ-AgSpCevVNWvNMqxgaFH8D_1dZ3jzzA1QaKBogcpYHYQhV7gNcpal7R-nojkJzW0GVkppOyhPKy5YfcVXrZ2fcAQWkxpoZhCQJnM2k7Qlz870qfbsjqja2MgOpzjCakGeag6PIPfTV5c3zGan3.js?_nc_x=Zk182cMuWyv, line 288: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if0Q4/ya/l/en_US/3zCtPsGRltlw1HtmvI3KM39yXecV7RIQyFRVAG5JXWwlprtmu282zVUv0vBBbzOnlwayJYAiSWrJ4dZiDFbx3RkrtU2Pa06DBrjLxKbQpSCnjrWnC_KrxSIXXigtIfH4v3P-du4JqQqdY5nOxxXNybyQ5x6EYHyR6SZMNjdKn0Pk2vvyODTCHVLQ-AgSpCevVNWvNMqxgaFH8D_1dZ3jzzA1QaKBogcpYHYQhV7gNcpal7R-nojkJzW0GVkppOyhPKy5YfcVXrZ2fcAQWkxpoZhCQJnM2k7Qlz870qfbsjqja2MgOpzjCakGeag6PIPfTV5c3zGan3.js?_nc_x=Zk182cMuWyv, line 288: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3if0Q4/ya/l/en_US/3zCtPsGRltlw1HtmvI3KM39yXecV7RIQyFRVAG5JXWwlprtmu282zVUv0vBBbzOnlwayJYAiSWrJ4dZiDFbx3RkrtU2Pa06DBrjLxKbQpSCnjrWnC_KrxSIXXigtIfH4v3P-du4JqQqdY5nOxxXNybyQ5x6EYHyR6SZMNjdKn0Pk2vvyODTCHVLQ-AgSpCevVNWvNMqxgaFH8D_1dZ3jzzA1QaKBogcpYHYQhV7gNcpal7R-nojkJzW0GVkppOyhPKy5YfcVXrZ2fcAQWkxpoZhCQJnM2k7Qlz870qfbsjqja2MgOpzjCakGeag6PIPfTV5c3zGan3.js?_nc_x=Zk182cMuWyv, line 291: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0ve4/yb/l/en_US/K6YNoWoH3_FtPcE5N2dxYNv5U8oUYVWFRj0TUvuTAbx14PmdM9ZK_xbONYtCj-q5FZJZZA45mJBTchCzHcC7enC7YdsDQ7xw-XR21svkY5Nq25A5qpX1wOfGaV5PXIgawfwoXekHcJmjk-TzsKGK4hb7DQ1XaNlI7QlGp.js?_nc_x=Zk182cMuWyv, line 24: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if0Q4/ya/l/en_US/3zCtPsGRltlw1HtmvI3KM39yXecV7RIQyFRVAG5JXWwlprtmu282zVUv0vBBbzOnlwayJYAiSWrJ4dZiDFbx3RkrtU2Pa06DBrjLxKbQpSCnjrWnC_KrxSIXXigtIfH4v3P-du4JqQqdY5nOxxXNybyQ5x6EYHyR6SZMNjdKn0Pk2vvyODTCHVLQ-AgSpCevVNWvNMqxgaFH8D_1dZ3jzzA1QaKBogcpYHYQhV7gNcpal7R-nojkJzW0GVkppOyhPKy5YfcVXrZ2fcAQWkxpoZhCQJnM2k7Qlz870qfbsjqja2MgOpzjCakGeag6PIPfTV5c3zGan3.js?_nc_x=Zk182cMuWyv, line 288: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if0Q4/ya/l/en_US/3zCtPsGRltlw1HtmvI3KM39yXecV7RIQyFRVAG5JXWwlprtmu282zVUv0vBBbzOnlwayJYAiSWrJ4dZiDFbx3RkrtU2Pa06DBrjLxKbQpSCnjrWnC_KrxSIXXigtIfH4v3P-du4JqQqdY5nOxxXNybyQ5x6EYHyR6SZMNjdKn0Pk2vvyODTCHVLQ-AgSpCevVNWvNMqxgaFH8D_1dZ3jzzA1QaKBogcpYHYQhV7gNcpal7R-nojkJzW0GVkppOyhPKy5YfcVXrZ2fcAQWkxpoZhCQJnM2k7Qlz870qfbsjqja2MgOpzjCakGeag6PIPfTV5c3zGan3.js?_nc_x=Zk182cMuWyv, line 288: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if0Q4/ya/l/en_US/3zCtPsGRltlw1HtmvI3KM39yXecV7RIQyFRVAG5JXWwlprtmu282zVUv0vBBbzOnlwayJYAiSWrJ4dZiDFbx3RkrtU2Pa06DBrjLxKbQpSCnjrWnC_KrxSIXXigtIfH4v3P-du4JqQqdY5nOxxXNybyQ5x6EYHyR6SZMNjdKn0Pk2vvyODTCHVLQ-AgSpCevVNWvNMqxgaFH8D_1dZ3jzzA1QaKBogcpYHYQhV7gNcpal7R-nojkJzW0GVkppOyhPKy5YfcVXrZ2fcAQWkxpoZhCQJnM2k7Qlz870qfbsjqja2MgOpzjCakGeag6PIPfTV5c3zGan3.js?_nc_x=Zk182cMuWyv, line 288: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if0Q4/ya/l/en_US/3zCtPsGRltlw1HtmvI3KM39yXecV7RIQyFRVAG5JXWwlprtmu282zVUv0vBBbzOnlwayJYAiSWrJ4dZiDFbx3RkrtU2Pa06DBrjLxKbQpSCnjrWnC_KrxSIXXigtIfH4v3P-du4JqQqdY5nOxxXNybyQ5x6EYHyR6SZMNjdKn0Pk2vvyODTCHVLQ-AgSpCevVNWvNMqxgaFH8D_1dZ3jzzA1QaKBogcpYHYQhV7gNcpal7R-nojkJzW0GVkppOyhPKy5YfcVXrZ2fcAQWkxpoZhCQJnM2k7Qlz870qfbsjqja2MgOpzjCakGeag6PIPfTV5c3zGan3.js?_nc_x=Zk182cMuWyv, line 288: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3if0Q4/ya/l/en_US/3zCtPsGRltlw1HtmvI3KM39yXecV7RIQyFRVAG5JXWwlprtmu282zVUv0vBBbzOnlwayJYAiSWrJ4dZiDFbx3RkrtU2Pa06DBrjLxKbQpSCnjrWnC_KrxSIXXigtIfH4v3P-du4JqQqdY5nOxxXNybyQ5x6EYHyR6SZMNjdKn0Pk2vvyODTCHVLQ-AgSpCevVNWvNMqxgaFH8D_1dZ3jzzA1QaKBogcpYHYQhV7gNcpal7R-nojkJzW0GVkppOyhPKy5YfcVXrZ2fcAQWkxpoZhCQJnM2k7Qlz870qfbsjqja2MgOpzjCakGeag6PIPfTV5c3zGan3.js?_nc_x=Zk182cMuWyv, line 291: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3if0Q4/ya/l/en_US/3zCtPsGRltlw1HtmvI3KM39yXecV7RIQyFRVAG5JXWwlprtmu282zVUv0vBBbzOnlwayJYAiSWrJ4dZiDFbx3RkrtU2Pa06DBrjLxKbQpSCnjrWnC_KrxSIXXigtIfH4v3P-du4JqQqdY5nOxxXNybyQ5x6EYHyR6SZMNjdKn0Pk2vvyODTCHVLQ-AgSpCevVNWvNMqxgaFH8D_1dZ3jzzA1QaKBogcpYHYQhV7gNcpal7R-nojkJzW0GVkppOyhPKy5YfcVXrZ2fcAQWkxpoZhCQJnM2k7Qlz870qfbsjqja2MgOpzjCakGeag6PIPfTV5c3zGan3.js?_nc_x=Zk182cMuWyv, line 293: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3if0Q4/ya/l/en_US/3zCtPsGRltlw1HtmvI3KM39yXecV7RIQyFRVAG5JXWwlprtmu282zVUv0vBBbzOnlwayJYAiSWrJ4dZiDFbx3RkrtU2Pa06DBrjLxKbQpSCnjrWnC_KrxSIXXigtIfH4v3P-du4JqQqdY5nOxxXNybyQ5x6EYHyR6SZMNjdKn0Pk2vvyODTCHVLQ-AgSpCevVNWvNMqxgaFH8D_1dZ3jzzA1QaKBogcpYHYQhV7gNcpal7R-nojkJzW0GVkppOyhPKy5YfcVXrZ2fcAQWkxpoZhCQJnM2k7Qlz870qfbsjqja2MgOpzjCakGeag6PIPfTV5c3zGan3.js?_nc_x=Zk182cMuWyv, line 293: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617949894849	Marionette	INFO	Stopped listening on port 35907
