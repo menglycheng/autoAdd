@@ -1,0 +1,920 @@
+1617904909669	geckodriver	INFO	Listening on 127.0.0.1:45243
+1617904909672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMYcGTB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617904921188	Marionette	INFO	Listening on port 43111
+1617904921623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617904943232	geckodriver	INFO	Listening on 127.0.0.1:33775
+1617904943242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYidSuY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617904946689	Marionette	INFO	Listening on port 36347
+1617904946776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617904967849	Marionette	INFO	Stopped listening on port 43111
+1617905040103	geckodriver	INFO	Listening on 127.0.0.1:34181
+1617905040112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSW5Lvl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617905043199	Marionette	INFO	Listening on port 37259
+1617905043254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617905062233	Marionette	INFO	Stopped listening on port 36347
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617905104415	Marionette	INFO	Stopped listening on port 37259
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617905110226	geckodriver	INFO	Listening on 127.0.0.1:47621
+1617905110232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW0idH7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617905113634	Marionette	INFO	Listening on port 42067
+1617905113665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617905243766	geckodriver	INFO	Listening on 127.0.0.1:44075
+1617905243770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilereUVM9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617905247283	Marionette	INFO	Listening on port 37013
+1617905247399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617905345551	Marionette	INFO	Stopped listening on port 37013
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617905350189	geckodriver	INFO	Listening on 127.0.0.1:48277
+1617905350199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeKPIdk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617905353464	Marionette	INFO	Listening on port 35821
+1617905353538	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617905555390	geckodriver	INFO	Listening on 127.0.0.1:39107
+1617905555400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex1Ov8N"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617905559116	Marionette	INFO	Listening on port 39367
+1617905559232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617905592540	geckodriver	INFO	Listening on 127.0.0.1:38999
+1617905592548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePYFgpQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617905596160	Marionette	INFO	Listening on port 34099
+1617905596283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617905674067	Marionette	INFO	Stopped listening on port 35821
+1617905675396	Marionette	INFO	Stopped listening on port 39367
+1617905676788	Marionette	INFO	Stopped listening on port 34099
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617905687028	geckodriver	INFO	Listening on 127.0.0.1:55483
+1617905687039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile91cWPG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617905691113	Marionette	INFO	Listening on port 44987
+1617905691186	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2307))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1617906561501	Marionette	INFO	Stopped listening on port 42067
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617906567650	Marionette	INFO	Stopped listening on port 44987
+1617932404583	geckodriver	INFO	Listening on 127.0.0.1:57499
+1617932404592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG3P5jx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617932408627	Marionette	INFO	Listening on port 35341
+1617932408717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617932435890	Marionette	INFO	Stopped listening on port 35341
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617932440856	geckodriver	INFO	Listening on 127.0.0.1:47309
+1617932440865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9TuY9u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617932444335	Marionette	INFO	Listening on port 45139
+1617932444391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+1617932468126	Marionette	INFO	Stopped listening on port 45139
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617932643893	geckodriver	INFO	Listening on 127.0.0.1:53253
+1617932643903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledtv18D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617932647192	Marionette	INFO	Listening on port 39453
+1617932647230	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16418, MediaDecoderStateMachine #1] WARNING: Decoder=7fcb44f89400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 16418, MediaDecoderStateMachine #1] WARNING: Decoder=7fcb44f89400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617932758371	geckodriver	INFO	Listening on 127.0.0.1:44477
+1617932758380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebZFNzZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617932761475	Marionette	INFO	Listening on port 37355
+1617932761508	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16769, MediaDecoderStateMachine #1] WARNING: Decoder=7fd8a5840800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 16769, MediaDecoderStateMachine #1] WARNING: Decoder=7fd8a5840800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617933148250	Marionette	INFO	Stopped listening on port 37355
+1617933338323	geckodriver	INFO	Listening on 127.0.0.1:59885
+1617933339235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTtHBd7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617933344664	Marionette	INFO	Listening on port 44997
+1617933344770	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18130, MediaDecoderStateMachine #1] WARNING: Decoder=7faf8f0f4800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 18130, MediaDecoderStateMachine #1] WARNING: Decoder=7faf8f0f4800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617933554487	geckodriver	INFO	Listening on 127.0.0.1:57513
+1617933555402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewl5DDg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617933559364	Marionette	INFO	Listening on port 43971
+1617933559427	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18850, MediaDecoderStateMachine #1] WARNING: Decoder=7f3b0a4f6400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 18850, MediaDecoderStateMachine #1] WARNING: Decoder=7f3b0a4f6400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617933607116	Marionette	INFO	Stopped listening on port 39453
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617933608951	Marionette	INFO	Stopped listening on port 44997
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617933610394	Marionette	INFO	Stopped listening on port 43971
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617933725498	geckodriver	INFO	Listening on 127.0.0.1:43379
+1617933725507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7TIIvo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617933728939	Marionette	INFO	Listening on port 33163
+1617933729033	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19369, MediaDecoderStateMachine #1] WARNING: Decoder=7ff76bcefc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 19369, MediaDecoderStateMachine #1] WARNING: Decoder=7ff76bcefc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617933783466	geckodriver	INFO	Listening on 127.0.0.1:41723
+1617933783475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYR7wxk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617933786771	Marionette	INFO	Listening on port 39395
+1617933786800	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19674, MediaDecoderStateMachine #1] WARNING: Decoder=7f89bf155c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 19674, MediaDecoderStateMachine #1] WARNING: Decoder=7f89bf155c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617933939986	geckodriver	INFO	Listening on 127.0.0.1:32861
+1617933939995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXehurI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617933943416	Marionette	INFO	Listening on port 33391
+1617933943519	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20148, MediaDecoderStateMachine #1] WARNING: Decoder=7f906f8ec000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 20148, MediaDecoderStateMachine #1] WARNING: Decoder=7f906f8ec000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617933975181	Marionette	INFO	Stopped listening on port 33163
+1617933976752	Marionette	INFO	Stopped listening on port 39395
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617933978575	Marionette	INFO	Stopped listening on port 33391
+1617934096827	geckodriver	INFO	Listening on 127.0.0.1:60755
+1617934096834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexSq067"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617934100198	Marionette	INFO	Listening on port 42081
+1617934100258	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20747, MediaDecoderStateMachine #1] WARNING: Decoder=7fbdcccb9c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 20747, MediaDecoderStateMachine #1] WARNING: Decoder=7fbdcccb9c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617934118566	Marionette	INFO	Stopped listening on port 42081
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617934289703	geckodriver	INFO	Listening on 127.0.0.1:60945
+1617934289705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ5jroB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617934293033	Marionette	INFO	Listening on port 46271
+1617934293138	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21549, MediaDecoderStateMachine #1] WARNING: Decoder=7f76a2305800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 21549, MediaDecoderStateMachine #1] WARNING: Decoder=7f76a2305800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617934316761	geckodriver	INFO	Listening on 127.0.0.1:52099
+1617934316771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenmp6fa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617934320167	Marionette	INFO	Listening on port 43943
+1617934320207	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21848, MediaDecoderStateMachine #1] WARNING: Decoder=7f17153b0000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 21848, MediaDecoderStateMachine #1] WARNING: Decoder=7f17153b0000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617934355280	geckodriver	INFO	Listening on 127.0.0.1:37867
+1617934355290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee5Of9I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617934358638	Marionette	INFO	Listening on port 41615
+1617934358715	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22161, MediaDecoderStateMachine #1] WARNING: Decoder=7f45dca02800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 22161, MediaDecoderStateMachine #1] WARNING: Decoder=7f45dca02800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617934444072	Marionette	INFO	Stopped listening on port 41615
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617934449849	Marionette	INFO	Stopped listening on port 46271
+1617934453146	Marionette	INFO	Stopped listening on port 43943
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617934457287	geckodriver	INFO	Listening on 127.0.0.1:51945
+1617934457297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVwodrZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617934461119	Marionette	INFO	Listening on port 42137
+1617934461223	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22534, MediaDecoderStateMachine #1] WARNING: Decoder=7f0094405c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 22534, MediaDecoderStateMachine #1] WARNING: Decoder=7f0094405c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617934524155	geckodriver	INFO	Listening on 127.0.0.1:34625
+1617934524224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezrupFs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617934527973	Marionette	INFO	Listening on port 45511
+1617934528072	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22853, MediaDecoderStateMachine #1] WARNING: Decoder=7f85ee11c800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 22853, MediaDecoderStateMachine #1] WARNING: Decoder=7f85ee11c800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617934562115	Marionette	INFO	Stopped listening on port 45511
+1617934565931	geckodriver	INFO	Listening on 127.0.0.1:48539
+1617934565940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeQ9Fqf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617934569364	Marionette	INFO	Listening on port 42813
+1617934569464	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23155, MediaDecoderStateMachine #1] WARNING: Decoder=7f5ad351dc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 23155, MediaDecoderStateMachine #1] WARNING: Decoder=7f5ad351dc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617934585544	Marionette	INFO	Stopped listening on port 42813
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617934850549	geckodriver	INFO	Listening on 127.0.0.1:48611
+1617934850559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHNN8ru"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617934853560	Marionette	INFO	Listening on port 38189
+1617934853587	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23730, MediaDecoderStateMachine #1] WARNING: Decoder=7f342be3bc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 23730, MediaDecoderStateMachine #1] WARNING: Decoder=7f342be3bc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617934885199	Marionette	INFO	Stopped listening on port 38189
+1617935079646	geckodriver	INFO	Listening on 127.0.0.1:44029
+1617935079656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegePtZl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617935082719	Marionette	INFO	Listening on port 44725
+1617935082779	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 24479, MediaDecoderStateMachine #1] WARNING: Decoder=7f8da25df800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 24479, MediaDecoderStateMachine #1] WARNING: Decoder=7f8da25df800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2307))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617936160643	geckodriver	INFO	Listening on 127.0.0.1:53257
+1617936161568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepJpHsS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617936167118	Marionette	INFO	Listening on port 43289
+1617936167228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617936219252	Marionette	INFO	Stopped listening on port 44725
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617936222103	Marionette	INFO	Stopped listening on port 42137
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617936223526	Marionette	INFO	Stopped listening on port 43289
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617936231159	geckodriver	INFO	Listening on 127.0.0.1:57949
+1617936232062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2eTC5o"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617936238210	Marionette	INFO	Listening on port 36155
+1617936238300	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 27661, MediaDecoderStateMachine #1] WARNING: Decoder=7fc304a22000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 27661, MediaDecoderStateMachine #1] WARNING: Decoder=7fc304a22000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617936512724	geckodriver	INFO	Listening on 127.0.0.1:53763
+1617936512733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ1J3pA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617936515990	Marionette	INFO	Listening on port 42441
+1617936516056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617936538861	geckodriver	INFO	Listening on 127.0.0.1:35951
+1617936538871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo5m6do"
+1617936541345	Marionette	INFO	Stopped listening on port 42441
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617936542400	Marionette	INFO	Listening on port 36625
+1617936542516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617936588073	geckodriver	INFO	Listening on 127.0.0.1:58415
+1617936588080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep3zn6H"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617936591302	Marionette	INFO	Listening on port 39649
+1617936591404	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 29201, MediaDecoderStateMachine #1] WARNING: Decoder=7f715122b800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 29201, MediaDecoderStateMachine #1] WARNING: Decoder=7f715122b800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617936651982	geckodriver	INFO	Listening on 127.0.0.1:56783
+1617936652257	Marionette	INFO	Stopped listening on port 39649
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617936652993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR3MX1O"
+1617936654154	Marionette	INFO	Stopped listening on port 36625
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617936656992	Marionette	INFO	Listening on port 38515
+1617936657022	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 29529, MediaDecoderStateMachine #1] WARNING: Decoder=7fe456cdd800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 29529, MediaDecoderStateMachine #1] WARNING: Decoder=7fe456cdd800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617936850437	geckodriver	INFO	Listening on 127.0.0.1:60557
+1617936850447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDChbqs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617936853852	Marionette	INFO	Listening on port 37905
+1617936853874	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 29906, MediaDecoderStateMachine #1] WARNING: Decoder=7f19b268ac00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 29906, MediaDecoderStateMachine #1] WARNING: Decoder=7f19b268ac00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617936880413	Marionette	INFO	Stopped listening on port 38515
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617936882302	Marionette	INFO	Stopped listening on port 37905
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617937049102	geckodriver	INFO	Listening on 127.0.0.1:38221
+1617937049113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoO5C4r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617937052700	Marionette	INFO	Listening on port 34303
+1617937052747	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 30417, MediaDecoderStateMachine #1] WARNING: Decoder=7f87eca42000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 30417, MediaDecoderStateMachine #1] WARNING: Decoder=7f87eca42000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617937084115	geckodriver	INFO	Listening on 127.0.0.1:52951
+1617937084126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4mXp0r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617937087623	Marionette	INFO	Listening on port 41037
+1617937087653	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 30717, MediaDecoderStateMachine #1] WARNING: Decoder=7fb7566f1000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 30717, MediaDecoderStateMachine #1] WARNING: Decoder=7fb7566f1000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2307))
+1617937162744	geckodriver	INFO	Listening on 127.0.0.1:60869
+1617937162753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewSHHzy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617937169466	Marionette	INFO	Listening on port 44843
+1617937169498	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 31060, MediaDecoderStateMachine #1] WARNING: Decoder=7f0bf32c0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 31060, MediaDecoderStateMachine #1] WARNING: Decoder=7f0bf32c0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+1617937229818	Marionette	INFO	Stopped listening on port 44843
+1617937236697	Marionette	INFO	Stopped listening on port 36155
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1617937238296	Marionette	INFO	Stopped listening on port 41037
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617937240853	Marionette	INFO	Stopped listening on port 34303
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617937334865	geckodriver	INFO	Listening on 127.0.0.1:58357
+1617937335881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler3palm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617937347887	Marionette	INFO	Listening on port 44745
+1617937347940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617937361436	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617937387105	geckodriver	INFO	Listening on 127.0.0.1:46855
+1617937387235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezabzT5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617937391444	Marionette	INFO	Listening on port 45339
+1617937391466	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 31825, MediaDecoderStateMachine #1] WARNING: Decoder=7fdfcfaba800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 31825, MediaDecoderStateMachine #1] WARNING: Decoder=7fdfcfaba800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617937435600	Marionette	INFO	Stopped listening on port 44745
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+1617937438416	Marionette	INFO	Stopped listening on port 45339
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617937745501	geckodriver	INFO	Listening on 127.0.0.1:51781
+1617937745510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelWdHap"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617937749190	Marionette	INFO	Listening on port 45589
+1617937749241	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 356, MediaDecoderStateMachine #1] WARNING: Decoder=7f249d755800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 356, MediaDecoderStateMachine #1] WARNING: Decoder=7f249d755800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617937816170	geckodriver	INFO	Listening on 127.0.0.1:48531
+1617937816180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecCk0js"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617937819928	Marionette	INFO	Listening on port 39343
+1617937820029	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 715, MediaDecoderStateMachine #1] WARNING: Decoder=7f3b7cdf3400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 715, MediaDecoderStateMachine #1] WARNING: Decoder=7f3b7cdf3400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617938119574	geckodriver	INFO	Listening on 127.0.0.1:55351
+1617938119583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZRpjHF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617938122765	Marionette	INFO	Listening on port 40873
+1617938122835	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1324, MediaDecoderStateMachine #1] WARNING: Decoder=7f301e9e3c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 1324, MediaDecoderStateMachine #1] WARNING: Decoder=7f301e9e3c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617939242935	geckodriver	INFO	Listening on 127.0.0.1:39167
+1617939242945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXyjxR2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617939248702	Marionette	INFO	Listening on port 37635
+1617939248783	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2645, MediaDecoderStateMachine #1] WARNING: Decoder=7f5f1a784c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 2645, MediaDecoderStateMachine #1] WARNING: Decoder=7f5f1a784c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617939274302	Marionette	INFO	Stopped listening on port 37635
+1617939469704	geckodriver	INFO	Listening on 127.0.0.1:54529
+1617939469714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAMJgTX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617939473410	Marionette	INFO	Listening on port 44993
+1617939473452	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3058, MediaDecoderStateMachine #1] WARNING: Decoder=7f19b73ec800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3058, MediaDecoderStateMachine #1] WARNING: Decoder=7f19b73ec800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617939556109	Marionette	INFO	Stopped listening on port 44993
+1617939560760	geckodriver	INFO	Listening on 127.0.0.1:59757
+1617939560770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehDr1M2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617939563939	Marionette	INFO	Listening on port 45733
+1617939563998	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3386, MediaDecoderStateMachine #1] WARNING: Decoder=7efe93c18800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3386, MediaDecoderStateMachine #1] WARNING: Decoder=7efe93c18800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1617939594986	geckodriver	INFO	Listening on 127.0.0.1:36055
+1617939594996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFXAVfT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617939599111	Marionette	INFO	Listening on port 41787
+1617939599233	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3681, MediaDecoderStateMachine #1] WARNING: Decoder=7fb6176e9800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 3681, MediaDecoderStateMachine #1] WARNING: Decoder=7fb6176e9800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+1617939682584	geckodriver	INFO	Listening on 127.0.0.1:40483
+1617939682594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Zdh67"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617939695636	Marionette	INFO	Listening on port 39469
+1617939695798	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4012, MediaDecoderStateMachine #1] WARNING: Decoder=7fbabe615c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 4012, MediaDecoderStateMachine #1] WARNING: Decoder=7fbabe615c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+1617939736285	Marionette	INFO	Stopped listening on port 39469
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617939737712	Marionette	INFO	Stopped listening on port 41787
+1617939760821	Marionette	INFO	Stopped listening on port 45733
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617939766788	geckodriver	INFO	Listening on 127.0.0.1:35033
+1617939767784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3ZN7pP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617939782720	Marionette	INFO	Listening on port 45773
+1617939782945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617939856347	geckodriver	INFO	Listening on 127.0.0.1:36841
+1617939856356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecbRir0"
+1617939858898	Marionette	INFO	Stopped listening on port 45773
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617939859920	Marionette	INFO	Listening on port 46023
+1617939859981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617939895408	Marionette	INFO	Stopped listening on port 46023
+1617939899214	Marionette	INFO	Stopped listening on port 45589
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617939903841	geckodriver	INFO	Listening on 127.0.0.1:38401
+1617939903926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX055jV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617939907701	Marionette	INFO	Listening on port 43707
+1617939907753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617939947978	Marionette	INFO	Stopped listening on port 43707
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617939951645	geckodriver	INFO	Listening on 127.0.0.1:50821
+1617939951654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaC7ey9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617939954943	Marionette	INFO	Listening on port 32905
+1617939954981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617940017608	geckodriver	INFO	Listening on 127.0.0.1:35953
+1617940017617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaXnT1Z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617940021155	Marionette	INFO	Listening on port 34195
+1617940021248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  AbortError
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  AbortError
+1617940022305	Marionette	INFO	Stopped listening on port 34195
+1617940030049	Marionette	INFO	Stopped listening on port 32905
+1617940034386	geckodriver	INFO	Listening on 127.0.0.1:57787
+1617940034388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQBplWu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617940037374	Marionette	INFO	Listening on port 43063
+1617940037414	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5884, MediaDecoderStateMachine #1] WARNING: Decoder=7f22f0b66400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 5884, MediaDecoderStateMachine #1] WARNING: Decoder=7f22f0b66400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-Z4wbuv/firefox-87.0+build3/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKJi4/yM/l/en_US/hicufbZ-JS8upOX5Xlhy9Fv5U8oUYVWFRj0TUvuTAbx12Irb5cSrB3dONYtCj-q5FZJZZA45mJBTchCzHcC7enC7cSiMURirOhw21svkY5Nq25kP6_DC-DStWgiXb0FvQrY_XekHcJmjk-T.js?_nc_x=Zk182cMuWyv, line 99: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006)
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 18: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iubf4/yT/l/en_US/8wJVZMyZZXr.js?_nc_x=Zk182cMuWyv, line 20: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+6078
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617940145208	geckodriver	INFO	Listening on 127.0.0.1:60557
+1617940145217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez2qPdY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617940148414	Marionette	INFO	Listening on port 43135
+1617940148443	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+1617940149678	Marionette	INFO	Stopped listening on port 43135
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617940179050	Marionette	INFO	Stopped listening on port 39343
+1617940187171	geckodriver	INFO	Listening on 127.0.0.1:54479
+1617940187173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUJUNI0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617940190217	Marionette	INFO	Listening on port 39205
+1617940190297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+ExceptionHandler::GenerateDump cloned child 6679
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1617940342603	Marionette	INFO	Stopped listening on port 39205
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617940345527	Marionette	INFO	Stopped listening on port 40873
