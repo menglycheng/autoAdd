@@ -2,8 +2,8 @@ from selenium import webdriver
 import geckodriver_autoinstaller
 from time import sleep
 
-name = "testbot941@gmail.com"
-password = "1234567890-="
+name = "YourEmail"
+password = "yourPassword"
 geckodriver_autoinstaller.install()
 driver = webdriver.Firefox()
 driver.get("https://www.facebook.com/")
